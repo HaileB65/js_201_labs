@@ -32,7 +32,7 @@ Throughout the course there are "spoilers" and exercises for you to do. Place th
 
 If you are working on a side project, library, or a variation on one of the module projects, that's great! You're really showing some initiative that makes you very valuable as a new hire 👏 Make sure you are putting your best foot forward and create new repositories for these projects. You can then link to them from your main GitHub profile page, and it'll be another great portfolio piece to show off to potential employers.
 
-# Remember the Git Flow
+## Remember the Git Flow
 
 In this course you'll be expected to follow the Git flow of:
 
