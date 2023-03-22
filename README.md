@@ -45,11 +45,11 @@ You'll see the course structure mirrored in the `labs` folder. At the end of eac
 
 Some folders don't have any labs, usually because that chapter was focused on building the module project.
 
-Throughout the course there are "Spoilers" and excercises for you to do. Place the results of those excercises in the corresponding folders in your repository so that your tutor can look over your work.
+Throughout the course there are "Spoilers" and exercises for you to do. Place the results of those exercises in the corresponding folders in your repository so that your tutor can look over your work.
 
 ### Present Your Solutions
 
-For many of the excercises, you'll need to create corresponding HTML files so that the solutions can be loaded in a live server.
+For many of the exercises, you'll need to create corresponding HTML files so that the solutions can be loaded in a live server.
 
 For example, say one of the chapter folders had three files:
 
@@ -103,8 +103,8 @@ Though in some cases, you may be asked to create more sandboxes, and along with 
 + │ ├ mini project
 + │ │ ├ mini_project.html
 + │ │ └ script.js
-+ │ └ chapter excercises
-+ │   ├ chapter_excercises.html
++ │ └ chapter exercises
++ │   ├ chapter_exercises.html
 + │   └ script.js
   |
   ...
