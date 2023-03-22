@@ -1,43 +1,8 @@
 # Coding Nomads JavaScript 201 Labs
 
-**Important** first steps to get set up:
+**Important**: Do _not_ fork!
 
-Do _not_ fork!
-
-1. **Clone** this repository to your machine.
-2. Create a _new_ repository on your GitHub account. _Don't_ fork this repository. Don't clone it yet. Take note of the URL of your new, blank GitHub repository:
-
-   ```text
-   git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-   ```
-
-3. From the command line, navigate to your local clone of _this_ repository and view the remote:
-
-   ```bash
-   $ git remote -v
-   origin git@github.com:CodingNomads/js_201_labs.git (fetch)
-   origin git@github.com:CodingNomads/js_201_labs.git (push)
-   ```
-
-   This should show you the URL of the Coding Nomads js_201_labs repository as above. You'll be changing this to your new empty repository:
-
-   ```bash
-   $ git remote set-url origin git@github.com:<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-   ```
-
-   Then run `git remote -v` to check that it's been replaced.
-
-   Finally, you are ready to push the labs to your blank repository:
-
-   ```bash
-   git push
-   ```
-
-   This will update your blank repository with all the commits done on the labs repository.
-
-4. Create a branch to work on, and once you are ready for your mentor to look over your work, create a pull request and request a review from them. Then you'll merge it together. Start new branches and pull requests for each section.
-
-If at any point you are stuck or are unsure, reach out to your mentor, or post in the forum.
+Go to the [cloning instructions](cloning.md) and follow the steps there to get set up.
 
 ## How to Go Through These Labs
 
@@ -45,7 +10,7 @@ You'll see the course structure mirrored in the `labs` folder. At the end of eac
 
 Some folders don't have any labs, usually because that chapter was focused on building the module project.
 
-Throughout the course there are "Spoilers" and exercises for you to do. Place the results of those exercises in the corresponding folders in your repository so that your tutor can look over your work.
+Throughout the course there are "spoilers" and exercises for you to do. Place the results of those exercises in the [scratch folders](scratch) corresponding folders in your repository so that your tutor can look over your work.
 
 ### Present Your Solutions
 
