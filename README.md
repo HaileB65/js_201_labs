@@ -32,6 +32,18 @@ Throughout the course there are "spoilers" and exercises for you to do. Place th
 
 If you are working on a side project, library, or a variation on one of the module projects, that's great! You're really showing some initiative that makes you very valuable as a new hire 👏 Make sure you are putting your best foot forward and create new repositories for these projects. You can then link to them from your main GitHub profile page, and it'll be another great portfolio piece to show off to potential employers.
 
+# Remember the Git Flow
+
+In this course you'll be expected to follow the Git flow of:
+
+- Creating a branch in your repository before you do make any changes
+- Working on interdependent files in your branch
+- Once finishing those files, creating a pull request
+- Requesting a review from your tutor, or reviewing your work yourself
+- Starting another branch (always from `master` or `main`) to continue working on something else
+
+This will give you a good workflow to follow, and it will also help you to get used to the Git flow that you'll be using in the real world.
+
 ## Keep on Coding
 
 To become a successful developer you need to grind! Make sure you're putting in regular practice time. You'll get better with practice, and you'll get better faster with regular practice.
