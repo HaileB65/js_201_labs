@@ -8,13 +8,53 @@ While you'll mainly be writing JavaScript, being able to efficiently write HTML 
     ```text
     Paste the five top commands here:
 
-nav>ul>li
+Command: nav>ul>li
 
 <nav>
   <ul>
     <li></li>
   </ul>
 </nav>
+
+Command: section>p+p+p
+
+<section>
+  <p></p>
+  <p></p>
+  <p></p>
+</section>
+
+Command: section>header>h1^footer
+
+<section>
+  <header>
+    <h1></h1>
+  </header>
+  <footer></footer>
+</section>
+
+Command: section>(header>nav>ul>li)+footer>p
+
+<section>
+  <header>
+    <nav>
+      <ul>
+        <li></li>
+      </ul>
+    </nav>
+  </header>
+  <footer>
+    <p></p>
+  </footer>
+</section>
+
+Command: ul.menu>li.menu__item+li#id_item+li.menu__item#id_2
+
+<ul class="menu">
+  <li class="menu__item"></li>
+  <li id="id_item"></li>
+  <li class="menu__item" id="id_2"></li>
+</ul>
     
     ```
 
@@ -22,5 +62,33 @@ nav>ul>li
 
     ```text
     Write the commands here:
+
+To create basic html page
+Command: !
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+To create main container and three section elements
+Command: div#main>(section+section+section)
+<div id=main>
+    <section></section>
+    <section></section>
+    <section></section>
+</div>
+
+To create headers and div elements in each section
+Command: header+div+div 
+
+<header></header>
+<div></div>
+<div></div>
 
     ```
