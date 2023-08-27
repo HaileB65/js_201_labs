@@ -7,6 +7,14 @@ While you'll mainly be writing JavaScript, being able to efficiently write HTML 
 
     ```text
     Paste the five top commands here:
+
+nav>ul>li
+
+<nav>
+  <ul>
+    <li></li>
+  </ul>
+</nav>
     
     ```
 
