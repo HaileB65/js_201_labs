@@ -6,3 +6,9 @@ In front end development there is always overwhelming choice. It makes for a muc
 2. With this, make a rough wireframe for a website of your choice and save it as a PNG file in this folder.
 
 This should be a detailed wireframe!
+
+Wireframes answer these questions:
+What will be displayed in the user interface?
+Where will elements be placed on the page?
+How will users interact with the page elements?
+How will the web page or application work?
