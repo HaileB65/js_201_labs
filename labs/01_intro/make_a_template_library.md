@@ -22,11 +22,18 @@ Here are the specific instructions for these labs:
    ```text
    Copy the link to your repository here:
 
+   https://github.com/HaileB65/notes-and-code-snippets
+
    ```
 
 6. Go to codesandbox.io and to codepen.io, create an account and explore the offerings there. These are also great for testing, but there are limitations that you may run into because they are not local projects.
 
    ```text
    Copy the links to your user profiles here:
+
+   https://codesandbox.io/u/brendon_haile
+
+   https://codepen.io/Haile-Brendon
+
 
    ```
