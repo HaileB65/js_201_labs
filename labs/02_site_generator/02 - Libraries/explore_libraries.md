@@ -7,9 +7,9 @@ Note that you'll often see installation instructions that get you to install wit
 1. Search the web, research some popular JavaScript libraries, and choose 3 that sound interesting to you.
 
    ```text
-   1.
-   2.
-   3.
+   1. Node.js
+   2. React
+   3. AngularJS
    ```
 
 2. Choose one of these, set up a sandbox project, and create a "Hello world" example using that library. If the library you chose doesn't have an easy to follow example to get started, choose another. It should be something relatively quick to get up and running (around 30 mins).
